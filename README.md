@@ -1,6 +1,6 @@
 # RocketHelp
 
-![Cover](./.github/cover.png)
+![Cover](./github/cover.png)
 
 # Rocketseat Ignite Lab React Native
 
